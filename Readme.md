@@ -1,2 +1,3 @@
 Aprendendo git.
-SEgunda linha
+Segunda linha
+Terceira Linha.
